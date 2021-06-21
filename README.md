@@ -27,6 +27,4 @@ After completing the above steps, you can double click the application to run it
 ## Usage
 1. Make sure Discord is activated behind Coinflip GUI. It will be done automatically if it's open.<br />
 2. Set the Bet Amount and Currency Type that you want to use in your coinflips.<br />
-3. Press Bet to start automatically coinflipping every 3.3 seconds, and press Stop to stop it.<br />
-
-To exit the application completely, you right click the "Coinflip GUI" icon in your taskbar (system tray) and click on "Exit".<br />
+3. Press Bet to start automatically coinflipping every 3.3 seconds, and press Stop to stop it.
