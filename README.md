@@ -19,7 +19,7 @@ This application lets you automatically repeatedly coinflip every 3.3 seconds wi
 > If you get the "Windows protected your PC" warning, do the following:
 5. Click on "More info", and then click on "Run anyway".
 
-You may want to pin it to the taskbar by right-clicking its icon and clicking on "Pin to taskbar" for ease of use.
+You may want to pin it to the taskbar by right-clicking its icon and clicking on "Pin to taskbar" for ease of use.<br />
 After completing the above steps, you can double click the application to run it any time.
 
 <br />
