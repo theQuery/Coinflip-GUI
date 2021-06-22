@@ -19,7 +19,6 @@ This application lets you automatically repeatedly coinflip every 3.3 seconds wi
 > If you get the "Windows protected your PC" warning, do the following:
 5. Click on "More info", and then click on "Run anyway".
 
-Now that it's running, you will see the "Coinflip GUI" icon in your taskbar (system tray).<br />
 After completing the above steps, you can double click the application to run it any time.
 
 <br />
