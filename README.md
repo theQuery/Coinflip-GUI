@@ -1,5 +1,5 @@
 # Coinflip GUI
-This application lets you automatically repeatedly coinflip every 3.3 seconds with a custom bet amount and currency type.
+This application lets you automatically coinflip every 3.3 seconds with a custom bet amount and currency type.
 
 <br />
 
